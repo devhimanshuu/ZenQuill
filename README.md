@@ -28,7 +28,7 @@ Welcome to ZenQuill, a serene and powerful MERN (MongoDB, Express.js, React, Nod
 
 3. Start the client and server by running `npm start` in their respective directories.
 
-4. Access the ZenQuill application at `http://localhost:3000` and begin your mindful blogging journey.
+4. Access the ZenQuill application at `http://localhost:8000` and begin your mindful blogging journey.
 
 ## Contributing
 I welcome contributions and feedback from the community. If you'd like to contribute to this repository, please follow the [Contributing Guidelines](Contributing.md).
