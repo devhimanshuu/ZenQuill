@@ -18,6 +18,6 @@ Then, please [create a new issue in the GitHub repository][new-issue] describing
 
 Be sure to include as much detail as possible including step-by-step descriptions, specific examples, screenshots or mockups, and reasoning for why the enhancement might be worthwhile.
 
-[new-issue]: https://github.com/devhimanshuu/Full_stack_Journey/issues/new
-[github-repo]:https://github.com/devhimanshuu/Full_stack_Journey
-[issues-list]: https://github.com/devhimanshuu/Full_stack_Journey/issues
+[new-issue]: https://github.com/devhimanshuu/ZenQuill/issues/new
+[github-repo]:https://github.com/devhimanshuu/ZenQuill
+[issues-list]: https://github.com/devhimanshuu/ZenQuill/issues
