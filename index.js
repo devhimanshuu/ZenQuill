@@ -11,7 +11,7 @@ mongoose
   .connect("mongodb://127.0.0.1:27017/zenquill")
   .then((e) => console.log("MongoDB Connected"));
 app.set("view engine", "ejs");
-app.set("views", path.resolve("./views"));
+app.set("views", path.join(__dirname, "views"));
 
 app.use(express.urlencoded({ extended: false }));
 
